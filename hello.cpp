@@ -18,5 +18,3 @@ int main(){
 
 return 0;
 }
-
-// This code has been contributed by Striver
